@@ -1,2 +1,2 @@
-## PIAIC Genrative AI Q1 Practices
+## PIAIC Generative AI Q1 Practices
 Prompt_Enginnering_Doker_Github_Modern_Python_Programming
