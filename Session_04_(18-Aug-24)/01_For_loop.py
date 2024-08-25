@@ -30,3 +30,4 @@ for m in range(10):
 #Start(from 1) , Stop(at 12),Step(jump of 3)    
 for n in range(1,12,3):
     print(n)     
+    
