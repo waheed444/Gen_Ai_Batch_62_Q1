@@ -35,14 +35,14 @@ To get started, clone this repository to your local machine using the following 
 ### Example Output:
 ```yaml
 Enter the student's name (or 'exit' to stop): Ali
-Enter the Math score for Alice: 85
-Enter the Science score for Alice: 90
-Enter the English score for Alice: 78
+Enter the Math score for Ali: 85
+Enter the Science score for Ali: 90
+Enter the English score for Ali: 78
 
 Enter the student's name (or 'exit' to stop): Waheed
-Enter the Math score for Bob: 35
-Enter the Science score for Bob: 45
-Enter the English score for Bob: 50
+Enter the Math score for Waheed: 35
+Enter the Science score for Waheed: 45
+Enter the English score for Waheed: 50
 
 Enter the student's name (or 'exit' to stop): exit
 
