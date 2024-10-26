@@ -35,22 +35,22 @@ To get started, clone this repository to your local machine using the following 
 
 ### Example Output:
 ```yaml
-Enter the student's name (or 'done' to stop): Alice
+Enter the student's name (or 'exit' to stop): Ali
 Enter the Math score for Alice: 85
 Enter the Science score for Alice: 90
 Enter the English score for Alice: 78
 
-Enter the student's name (or 'done' to stop): Bob
+Enter the student's name (or 'exit' to stop): Waheed
 Enter the Math score for Bob: 35
 Enter the Science score for Bob: 45
 Enter the English score for Bob: 50
 
-Enter the student's name (or 'done' to stop): done
+Enter the student's name (or 'exit' to stop): exit
 
 Student Performance Summary:
 
-Student: Alice | Average Score: 84.33 | Status: Passing
-Student: Bob   | Average Score: 43.33 | Status: Needs Improvement
+Student: Ali | Average Score: 84.33 | Status: Passing
+Student: Waheed   | Average Score: 43.33 | Status: Needs Improvement
 
 Class Average: 63.83
 ```
