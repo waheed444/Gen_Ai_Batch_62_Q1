@@ -19,7 +19,7 @@ Ensure you have Python installed on your machine. You can download Python from t
 To get started, clone this repository to your local machine using the following command:
 
 ## Git clone
- https://github.com/waheed444/Gen_Ai_Batch_62_Q1/tree/main/FINAL-PROJECT
+ https://github.com/waheed444/Gen_Ai_Batch_62_Q1/tree/main/OOP_Project
 
 ## Student Performance Tracker
 
